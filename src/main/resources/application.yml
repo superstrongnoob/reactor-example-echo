@@ -1,0 +1,6 @@
+echo:
+  host: localhost
+  tcp_port: 14100
+  udp_port: 14200
+  websocket_port: 14300
+  http_port: 14400
